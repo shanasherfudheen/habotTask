@@ -1,0 +1,29 @@
+.badge{
+    width: 100%;
+    height: 200px;
+    background-color: hsla(190, 100%, 95%, 1);
+}
+.badge h2{
+    float: left;
+    padding: 70px 140px;
+    font-weight: 700;
+    color: black;
+}
+.badge a{
+    text-decoration-line: underline;
+    text-decoration-color: #f5ab24;
+    color: black;
+}
+.verify-btn button{
+    width: 200px;
+    border: 1px solid orange;
+    padding: 15px 30px;
+    border-radius: 7px;
+    background-color: white;
+    margin: 5px;
+    margin-top: 75px;
+    background-color: #f5ab24;
+    color: white;
+    font-size: 16px;
+    font-weight: 700;
+}
