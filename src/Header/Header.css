@@ -1,0 +1,56 @@
+.heading {
+    display: flex;
+    height: 80px;
+    /* position: relative; */
+    padding-top: 25px;
+    overflow: hidden;
+}
+
+.logo {
+    width: 40%;
+    text-align: center;
+    display: flex;
+}
+
+.logo-text {
+    margin-left: 25px;
+}
+.outerbox {
+    margin-left: 110px;
+    width: 10px;
+    height: 35px;
+    background-color: hsla(0, 0%, 45%, 0.1);
+    filter: drop-shadow(12px 0px rgb(157, 175, 236));
+    box-shadow: 0px 9px 26px 0px hsla(0, 0%, 45%, 0.1);
+}
+.innerbox{
+    width: 10px;
+    height: 35px;
+    background-color: rgb(8, 8, 9);
+    filter: drop-shadow(12px 0px rgb(79, 79, 84));
+}
+
+.menus {
+    width: 40%;
+    text-align: center;
+}
+
+.menus a {
+    text-decoration: none;
+}
+
+.dropbtn {
+    padding-left: 50px;
+    border: none;
+    background-color: white;
+    color: hsl(0, 6%, 57%);
+}
+
+.dropbtn:active {
+    border: none;
+}
+
+.login-signup {
+    width: 20%;
+    text-align: center;
+}
