@@ -1,0 +1,28 @@
+.post-section{
+    width: 85%;
+    height: 400px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    /* margin-right: 100px; */
+    background-color: hsla(210, 85%, 18%, 1);
+}
+.video-buyer{
+    margin-left: 100px;
+    margin-top: 120px;
+    float: left;
+}
+.dropdowns{
+    
+}
+.buyer{
+    float: left;
+}
+.buyer a{
+    text-decoration: none;
+}
+.supplier{
+    
+}
+.supplier a{
+    text-decoration: none;
+}
